@@ -1,0 +1,32 @@
+<style>
+a{
+color: Black;
+}
+a:visited {
+color: Black; /* Цвет посещённой ссылки */
+} 
+a:hover {
+color: Green;  
+}
+.header{
+}
+.nav{
+width: 120px;
+float: left;
+}
+.aside{
+width: 150px;
+float: right;
+}
+.article{
+margin-left: 130px;
+margin-right: 160px;
+}
+.footer{
+clear: both;
+}
+.separator{
+hight: 30px;
+clear: both;
+}
+</style>
