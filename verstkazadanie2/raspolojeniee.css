@@ -1,0 +1,74 @@
+<style>
+block{
+}
+#nij{
+color: orange;
+padding: 15px;
+margin-left:20px;
+margin-right:20px;
+border: 1px solid #7f7f7f;
+background-color: #dcdcdc;
+height: 50px;
+width: 97%;
+box-sizing: border-box;
+display: inline-block;
+clear: both;
+}
+#levkub{
+margin-left: 20px;
+border: 1px solid #7f7f7f;
+background-color: #dcdcdc;
+height: 200px;
+width: 20%;
+box-sizing: border-box;
+display: inline-block;
+float: left;
+}
+h7{
+color: #d2691e;
+}
+#hhh{
+color: #964b00;
+}
+#pravkub{
+margin-right: 20px;
+margin-bottom: 15px;
+padding:1px;
+border: 1px solid #7f7f7f;
+background-color: #dcdcdc;
+width: 72%;
+box-sizing: border-box;
+display: inline-block;
+float: right;
+}
+#pustoe{
+height: 3px;
+width:100%;
+box-sizing: border-box;
+display: inline-block;
+clear:both;
+}
+img{
+width:220px;
+margin: 4px;
+}
+#levstr{
+float: left;
+}
+#prstr{
+float: right;
+}
+#zelen{
+color: #20b2aa;
+}
+#otstup{
+padding-left: 4px;
+}
+#clr{
+clear:both;
+}
+#rspl1{
+margin-left: 33%;
+clear:both;
+}
+</style>
